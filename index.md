@@ -5,7 +5,12 @@ Hi! My name is Andrea Calderon. I am a 3rd year CS student. I'm super excited to
 
 ## Hobbies
 **Vinyl record collecting**\
-I was gifted a turntable for Christmas. Since then, I've been ~~participating in an expensive hobby~~ collecting vinyls.
+I was gifted a turntable for Christmas. Since then, I've been ~~participating in an expensive hobby~~ collecting vinyls.Images:
+
+
+<img src="https://raw.githubusercontent.com/a5calderon/CSE110-Lab1/refs/heads/main/FullSizeRender.jpeg" height="400"/>
+
+<img src="https://raw.githubusercontent.com/a5calderon/CSE110-Lab1/refs/heads/main/IMG_4901.jpeg" height="400"/>
 
 **Gaming on Nintendo 3ds**\
 My current game rotation includes Animal Crossing New Leaf, Build a Bear, and Super Mario.
