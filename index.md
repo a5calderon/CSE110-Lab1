@@ -11,7 +11,7 @@ I was gifted a turntable for Christmas. Since then, I've been ~~participating in
 My current game rotation includes Animal Crossing New Leaf, Build a Bear, and Super Mario.
 
 **Coffee crafting**\
-I got into coffee last year because of my job. Currently, my top favorite drinks are:
+I got into coffee last year because of my job (what's my job?? Link to relevant section: [Link Text](#my-ucsd-experience).). Currently, my top favorite drinks are:
 - hazelnut shaken espresso
 - iced dirty chai
 - caramel frappe
@@ -21,7 +21,7 @@ I'm currently reading _Little Women_. Here is a quote: >"I am not afraid of stor
 
 ## My UCSD Experience 
 
-**My favorite classes:**\
+**My favorite classes:**
 1. CSE100
 2. CSE167 (image)
 3. CSE8A, where ``` print("Hello World")``` was exciting
