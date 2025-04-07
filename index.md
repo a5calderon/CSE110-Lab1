@@ -24,7 +24,7 @@ I'm currently reading _Little Women_. Here is a quote:
 
 **My favorite classes:**
 1. CSE100
-2. CSE167 ([test copy 4.png](https://github.com/a5calderon/CSE110-Lab1/blob/main/test%20copy%204.png?raw=true))
+2. CSE167 [test copy 4.png](https://github.com/a5calderon/CSE110-Lab1/blob/main/test%20copy%204.png?raw=true)
 3. CSE8A, where ``` print("Hello World")``` was exciting
 
 **Jobs**\
